@@ -1,0 +1,9 @@
+{
+	"name" : "lordscales91/phpquery",
+	"description" : "A JQuery-like library for PHP. Inspired by PyQuery",
+	"autoload" : {
+		"psr-0" : {
+			"lordscales91\\phpquery" : "src"
+		}
+	}
+}
